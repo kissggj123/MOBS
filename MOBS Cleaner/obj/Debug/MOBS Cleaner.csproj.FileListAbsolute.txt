@@ -1,0 +1,9 @@
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\obj\Debug\MOBS Cleaner.csprojResolveAssemblyReference.cache
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\obj\Debug\MOBS_Cleaner.Form1.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\obj\Debug\MOBS_Cleaner.Properties.Resources.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\obj\Debug\MOBS Cleaner.csproj.GenerateResource.Cache
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\bin\Debug\MOBS Cleaner.exe.config
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\bin\Debug\MOBS Cleaner.exe
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\bin\Debug\MOBS Cleaner.pdb
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\obj\Debug\MOBS Cleaner.exe
+E:\私人文件\VS app\mlbrowser\SharpBrowser\Cleaner\MOBS Cleaner\obj\Debug\MOBS Cleaner.pdb

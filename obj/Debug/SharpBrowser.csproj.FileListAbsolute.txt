@@ -1,0 +1,11 @@
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\bin\SharpBrowser.exe.config
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\bin\SharpBrowser.exe
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\bin\SharpBrowser.pdb
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\SharpBrowser.csprojResolveAssemblyReference.cache
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\SharpBrowser.MainForm.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\SharpBrowser.Properties.Resources.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\SharpBrowser.csproj.GenerateResource.Cache
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\SharpBrowser.exe
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\SharpBrowser.pdb
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.MainForm.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.Properties.Resources.resources

@@ -1,0 +1,10 @@
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\bin\MBS.exe.config
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\bin\MBS.exe
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\bin\MBS.pdb
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.About.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.MainForm.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.Properties.Resources.resources
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.csproj.GenerateResource.Cache
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.exe
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.pdb
+E:\私人文件\VS app\mlbrowser\SharpBrowser\src\obj\Debug\MBS.csprojResolveAssemblyReference.cache

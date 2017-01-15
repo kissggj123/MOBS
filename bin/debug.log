@@ -1,0 +1,154 @@
+[1012/184414:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[1012/184414:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0114/125618:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0114/133020:INFO:CONSOLE(0)] "'webkitRequestAnimationFrame' is vendor-specific. Please use the standard 'requestAnimationFrame' instead.", source:  (0)
+[0114/133021:INFO:CONSOLE(0)] "'webkitCancelRequestAnimationFrame' is vendor-specific. Please use the standard 'cancelAnimationFrame' instead.", source:  (0)
+[0114/133051:INFO:CONSOLE(127)] "Uncaught TypeError: Cannot read property 'addCallback' of undefined", source: http://s3.music.126.net/sep/s/2/core.js?687206e9c753c65ea31ea58748bf3817 (127)
+[0114/135351:INFO:CONSOLE(0)] "'webkitRequestAnimationFrame' is vendor-specific. Please use the standard 'requestAnimationFrame' instead.", source:  (0)
+[0114/135447:INFO:CONSOLE(0)] "'webkitRequestAnimationFrame' is vendor-specific. Please use the standard 'requestAnimationFrame' instead.", source:  (0)
+[0114/135448:INFO:CONSOLE(0)] "'webkitCancelRequestAnimationFrame' is vendor-specific. Please use the standard 'cancelAnimationFrame' instead.", source:  (0)
+[0114/135515:INFO:CONSOLE(127)] "Uncaught TypeError: Cannot read property 'addCallback' of undefined", source: http://s3.music.126.net/sep/s/2/core.js?687206e9c753c65ea31ea58748bf3817 (127)
+[0114/140725:INFO:CONSOLE(172)] "一张网页，要经历怎样的过程，才能抵达用户面前？
+一位新人，要经历怎样的成长，才能站在技术之巅？
+探寻这里的秘密；
+体验这里的挑战；
+成为这里的主人；
+加入百度，加入网页搜索，你，可以影响世界。
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_316369e.js (172)
+[0114/140725:INFO:CONSOLE(172)] "请将简历发送至 %c ps_recruiter@baidu.com（ 邮件标题请以“姓名-应聘XX职位-来自console”命名）", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_316369e.js (172)
+[0114/140725:INFO:CONSOLE(172)] "职位介绍：http://dwz.cn/hr2013", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_316369e.js (172)
+[0114/140825:INFO:CONSOLE(0)] "'webkitRequestAnimationFrame' is vendor-specific. Please use the standard 'requestAnimationFrame' instead.", source:  (0)
+[0114/140825:INFO:CONSOLE(0)] "'webkitCancelRequestAnimationFrame' is vendor-specific. Please use the standard 'cancelAnimationFrame' instead.", source:  (0)
+[0114/140848:INFO:CONSOLE(127)] "Uncaught TypeError: Cannot read property 'addCallback' of undefined", source: http://s3.music.126.net/sep/s/2/core.js?687206e9c753c65ea31ea58748bf3817 (127)
+[0114/142641:INFO:CONSOLE(0)] "XMLHttpRequest cannot load https://www.google.com/_/og/promos/z. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.google.co.th' is therefore not allowed access. The response had HTTP status code 400.", source: https://www.google.co.th/?gws_rd=cr,ssl&ei=ksR5WNexFcGBvwTJ9ITwBg (0)
+[0114/142651:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0114/142652:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 37
+[0114/142652:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 39
+[0114/142658:INFO:CONSOLE(35)] "Uncaught ReferenceError: GetQueryString is not defined", source: http://bdsp.x.jd.com/adm/google?cb=eNqTWMOk8ItRS9XIID4x0cA01czQJNXQ1MAkNTE10dA0zdDc2DLNKM3I0CzVMt7Q4B2nFYMTj6GhiZ6FkZ6hsaGegRdDEKNRhEgST0m2TmmSTkV6kk5eUgZDEUMFQxcjp7GBoYm5maGZ2SRGiXCPPNfCckc3S59k75ysbM-i8hRnt3Jb25mMDCCQEOqwiJHN0MjMyMpsFSPDBkbGnRAJhg_2hxhNMkpKCqz09cvLy_WSckpTDQ0MDPSS83P1k7IzSnJz9JMNzfWNDAyNdQ1M9c0NDS3M9IDCALwuOiM~&p=WHnEqwAF9LcKljkIAAdCF2E7CYlbfgJOzshdYw&JSVDTElDS19VUkxfRVNDJSU~=http://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCxZZKq8R5WLfpF4jy2ASXhJ34Csm59pRG0NaM5oACwI23ARABIABgndHUgbAFggEXY2EtcHViLTk3MzMyMjkzNTI0NjMxMzTIAQmpAsLzZ7hPc4M-qAMBqgShAU_Q96n6i9BVXnwL6JL8Q76kWpMIRxfDV-GSnDbnPtsnLhgFmPpeKg9YI5VZVu33Uq23W-6Emn5a2GJKBaB6haR51Bhee9sFEbL16bDMkd9_8szu3AE-3hYju3HfwMoKZk8ICAk8Xt8LVoANaZYBR1zh9O2GFY1k8ai5mtnokW_g3IuHqZ4AQRloYqVUPERZ4XnHAzj0VtO_eVcIQUSheBEYgAb07_WimafE6kWgBiGoB6a-G9gHANIIBQiAYRAB%26num%3D1%26sig%3DAOD64_2NP-9j2SN9p2Y8iekRYlHCmRWIIg%26client%3Dca-pub-9733229352463134%26adurl%3D&sku=eNrjKuN49-iQkcDfu90GEt-AhMKTNzYajIaTTtd77K_1tbeEMRwYvXhftre_nNKg-2zqhucLGgMYohgSGaAg4z8MMBYwVjA2MDJ1MTKVZE9gnPlScAZjm-gCxlO5KxgZNzLCjBOq5rLNSivWLzE2NjDXN7Qw0zc1MTUwNzM2NzPSNzU2NjTSN09KNrVMTEzVN7UwN0pNMTX0S7E0STZINDHUyypIF9LOKCkpsNLXL07MSdXLStFLzs_VT0wu0a8oTAspSjVIcQwMyIt0MdPLKMnNkWBQ4jY2MKgwMjUA6QUATW1XEw~~ (35)
+[0114/142712:INFO:CONSOLE(0)] "XMLHttpRequest cannot load https://www.google.com/_/og/promos/z. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.google.co.th' is therefore not allowed access. The response had HTTP status code 400.", source: https://www.google.co.th/?gws_rd=cr,ssl&ei=ksR5WNexFcGBvwTJ9ITwBg#q=C%23%E5%88%A0%E9%99%A4%E6%8B%92%E7%BB%9D%E6%96%87%E4%BB%B6 (0)
+[0114/142715:INFO:CONSOLE(51)] "想和我们共同打造世界最大中文互动问答平台吗？
+想让自己的成就在亿万用户面前展现吗？想让世界看得你的光芒吗？
+加入我们，在这里不仅是工作，投入你的时间和热情，滴滴汗水终会汇聚成不平凡的成果。
+期待你的加盟。http://zhidao.baidu.com/misc/more/joinus", source: https://gss0.bdstatic.com/7051cy792sgCpNKfpU_Y_D3/static/common/pkg/module_fd8b64e.js (51)
+[0114/142715:INFO:CONSOLE(51)] "请在邮件中注明%c来自:console", source: https://gss0.bdstatic.com/7051cy792sgCpNKfpU_Y_D3/static/common/pkg/module_fd8b64e.js (51)
+[0114/142718:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 61
+[0114/142732:INFO:CONSOLE(0)] "XMLHttpRequest cannot load https://www.google.com/_/og/promos/z. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'https://www.google.co.th' is therefore not allowed access. The response had HTTP status code 400.", source: https://www.google.co.th/?gws_rd=cr,ssl&ei=ksR5WNexFcGBvwTJ9ITwBg#q=C%23%E5%88%A0%E9%99%A4%E6%8B%92%E7%BB%9D%E6%96%87%E4%BB%B6 (0)
+[0114/142804:INFO:CONSOLE(2)] "pw5.03.10-49", source: http://eclkmpsa.com/adServe/banners?tid=34189_49717_3&tagid=2 (2)
+[0114/144559:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0114/150709:WARNING:ipc_channel_win.cc(375)] Unable to create pipe "\\.\pipe\chrome.2436.1.89668205" in client mode: ϵͳ�Ҳ���ָ�����ļ��� (0x2)
+[0114/154958:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0114/163255:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0114/163851:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0114/163851:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0114/163851:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0114/163851:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0114/163910:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[0114/163910:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[0114/163910:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[0114/163910:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0114/163948:INFO:CONSOLE(0)] "
+%c停下！", source:  (0)
+[0114/163948:INFO:CONSOLE(0)] "
+%c此浏览器功能专供开发者使用。若某人让你在此复制粘贴某内容以启用某 Facebook 功能或“入侵”某人帐户，此为欺诈，会使对方获权进入你的 Facebook 帐户。", source:  (0)
+[0114/163948:INFO:CONSOLE(0)] "
+%c查看https://www.facebook.com/selfxss详细了解。", source:  (0)
+[0114/163948:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0114/164000:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/ (0)
+[0114/164003:WARNING:extension_protocols.cc(438)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0114/164003:WARNING:url_request_job_manager.cc(89)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0114/164003:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/ (0)
+[0114/164003:WARNING:extension_protocols.cc(438)] Failed to GetPathForExtension: boadgeojelhgndaghljhdicfkmllpafd
+[0114/164003:WARNING:url_request_job_manager.cc(89)] Failed to map: chrome-extension://boadgeojelhgndaghljhdicfkmllpafd/cast_sender.js
+[0114/164003:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/ (0)
+[0114/164003:WARNING:extension_protocols.cc(438)] Failed to GetPathForExtension: dliochdbjfkdbacpmhlcpmleaejidimm
+[0114/164003:WARNING:url_request_job_manager.cc(89)] Failed to map: chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm/cast_sender.js
+[0114/164003:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/ (0)
+[0114/164004:WARNING:extension_protocols.cc(438)] Failed to GetPathForExtension: hfaagokkkhdbgiakmmlclaapfelnkoah
+[0114/164004:WARNING:url_request_job_manager.cc(89)] Failed to map: chrome-extension://hfaagokkkhdbgiakmmlclaapfelnkoah/cast_sender.js
+[0114/164004:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/ (0)
+[0114/164004:WARNING:extension_protocols.cc(438)] Failed to GetPathForExtension: fmfcbgogabcbclcofgocippekhfcmgfj
+[0114/164004:WARNING:url_request_job_manager.cc(89)] Failed to map: chrome-extension://fmfcbgogabcbclcofgocippekhfcmgfj/cast_sender.js
+[0114/164004:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/ (0)
+[0114/164004:WARNING:extension_protocols.cc(438)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0114/164004:WARNING:url_request_job_manager.cc(89)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0114/164004:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/ (0)
+[0114/164004:WARNING:extension_protocols.cc(438)] Failed to GetPathForExtension: null
+[0114/164004:WARNING:url_request_job_manager.cc(89)] Failed to map: chrome-extension://null/cast_sender.js
+[0114/164004:INFO:CONSOLE(0)] "Refused to load the script 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self'".
+", source: https://www.facebook.com/ (0)
+[0114/164217:INFO:CONSOLE(144)] "
+%c停下！", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/164217:INFO:CONSOLE(144)] "
+%c此浏览器功能专供开发者使用。若某人让你在此复制粘贴某内容以启用某 Facebook 功能或“入侵”某人帐户，此为欺诈，会使对方获权进入你的 Facebook 帐户。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/164217:INFO:CONSOLE(144)] "
+%c查看https://www.facebook.com/selfxss详细了解。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/164217:INFO:CONSOLE(144)] "
+%c", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/165258:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0114/165329:INFO:CONSOLE(0)] "
+%c停下！", source:  (0)
+[0114/165329:INFO:CONSOLE(0)] "
+%c此浏览器功能专供开发者使用。若某人让你在此复制粘贴某内容以启用某 Facebook 功能或“入侵”某人帐户，此为欺诈，会使对方获权进入你的 Facebook 帐户。", source:  (0)
+[0114/165329:INFO:CONSOLE(0)] "
+%c查看https://www.facebook.com/selfxss详细了解。", source:  (0)
+[0114/165329:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0114/165339:INFO:CONSOLE(0)] "
+%c停下！", source:  (0)
+[0114/165339:INFO:CONSOLE(0)] "
+%c此浏览器功能专供开发者使用。若某人让你在此复制粘贴某内容以启用某 Facebook 功能或“入侵”某人帐户，此为欺诈，会使对方获权进入你的 Facebook 帐户。", source:  (0)
+[0114/165339:INFO:CONSOLE(0)] "
+%c查看https://www.facebook.com/selfxss详细了解。", source:  (0)
+[0114/165339:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[0114/170156:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0114/170205:INFO:CONSOLE(164)] "", source: http://www.microsoft.com/en-us/download/details.aspx?id=42642 (164)
+[0114/170208:INFO:CONSOLE(0)] "Refused to display 'https://www.microsoft.com/en-us/silentauth' in a frame because it set 'X-Frame-Options' to 'SAMEORIGIN'.", source: https://login.microsoftonline.com/72f988bf-86f1-41af-91ab-2d7cd011db47/oauth2/authorize?client_id=519222f8-05c3-47e6-8716-b74111e12947&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dCMwDbdbIgIdg6kHWVM1432v0LyUyXnt29KlNBv59hQ0WQb_XAfUyTC0qUau7ZOUyVhzUho8iVmC5ldNdvY_o-rs_QmKQTaOGfY1YzVHqyReV1EOK6rph9-hu-VNi2ATY8S9Jf7RHZnQqjUSWJu5y1pgrEww&nonce=636199813212793213.NWNmNmIyZGYtYTk4Yi00MDJhLWE3NTItMTdkNGYxYTdmNTgxMmRjZmU3NTgtN2M5My00MzVlLTkzMDEtZDg0NTEwMjRlYjAw&msafed=0&post_logout_redirect_uri=https%3a%2f%2fwww.microsoft.com%2fen-us%2fdownload%2fdetails.aspx%3fid%3d42642&redirect_uri=https%3a%2f%2fwww.microsoft.com%2fen-us%2fsilentauth%3fsilentauth%3daad&prompt=none (0)
+[0114/170210:INFO:CONSOLE(144)] "
+%c停下！", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170210:INFO:CONSOLE(144)] "
+%c此浏览器功能专供开发者使用。若某人让你在此复制粘贴某内容以启用某 Facebook 功能或“入侵”某人帐户，此为欺诈，会使对方获权进入你的 Facebook 帐户。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170210:INFO:CONSOLE(144)] "
+%c查看https://www.facebook.com/selfxss详细了解。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170210:INFO:CONSOLE(144)] "
+%c", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170217:INFO:CONSOLE(144)] "
+%c停下！", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170217:INFO:CONSOLE(144)] "
+%c此浏览器功能专供开发者使用。若某人让你在此复制粘贴某内容以启用某 Facebook 功能或“入侵”某人帐户，此为欺诈，会使对方获权进入你的 Facebook 帐户。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170217:INFO:CONSOLE(144)] "
+%c查看https://www.facebook.com/selfxss详细了解。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170217:INFO:CONSOLE(144)] "
+%c", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/170342:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.facebook.com/groups/qun34529556/permalink/1087788134680526/?comment_id=1087789361347070&notif_t=group_comment&notif_id=1484384518378284' was loaded over HTTPS, but requested an insecure image 'mbs://storage/errors/cannotConnect.html'. This content should also be served over HTTPS.", source: https://www.facebook.com/groups/qun34529556/permalink/1087788134680526/?comment_id=1087789361347070&notif_t=group_comment&notif_id=1484384518378284 (0)
+[0114/170342:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/groups/qun34529556/permalink/1087788134680526/?comment_id=1087789361347070&notif_t=group_comment&notif_id=1484384518378284 (0)
+[0114/171320:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/groups/qun34529556/permalink/1087788134680526/?comment_id=1087789361347070&notif_t=group_comment&notif_id=1484384518378284 (0)
+[0114/171329:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.facebook.com/groups/qun34529556/permalink/1087788134680526/?comment_id=1087789361347070&notif_t=group_comment&notif_id=1484384518378284' was loaded over HTTPS, but requested an insecure image 'mbs://storage/errors/cannotConnect.html'. This content should also be served over HTTPS.", source: https://www.facebook.com/groups/qun34529556/permalink/1087788134680526/?comment_id=1087789361347070&notif_t=group_comment&notif_id=1484384518378284 (0)
+[0114/171329:INFO:CONSOLE(0)] "Refused to connect to 'mbs://storage/errors/cannotConnect.html' because it violates the following Content Security Policy directive: "connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm".
+", source: https://www.facebook.com/groups/qun34529556/permalink/1087788134680526/?comment_id=1087789361347070&notif_t=group_comment&notif_id=1484384518378284 (0)
+[0114/171352:INFO:CONSOLE(144)] "
+%c停下！", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/171352:INFO:CONSOLE(144)] "
+%c此浏览器功能专供开发者使用。若某人让你在此复制粘贴某内容以启用某 Facebook 功能或“入侵”某人帐户，此为欺诈，会使对方获权进入你的 Facebook 帐户。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/171352:INFO:CONSOLE(144)] "
+%c查看https://www.facebook.com/selfxss详细了解。", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
+[0114/171352:INFO:CONSOLE(144)] "
+%c", source: https://www.facebook.com/rsrc.php/v3/yy/r/Uz1_cNSYvZK.js (144)
